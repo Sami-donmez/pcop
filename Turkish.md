@@ -5,7 +5,7 @@ NodeMCU ile uzaktan bilgisayarınızı açın, kapatın veya yeniden başlatın.
 ## Devre
 
   ### Gerekli Malzemeler
-    * NodeMcu (ESP12E 4M)
+    * NodeMcu (ESP-12E 4M)
     * 4 adet Dişi-Erkek Jumper Kablo
     * 2 Adet Erkek-Erkek Jumper Kablo
     * 1 adet BC559 PNP Transistör
