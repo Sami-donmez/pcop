@@ -13,3 +13,4 @@ NodeMCU ile uzaktan bilgisayarınızı açın, kapatın veya yeniden başlatın.
     * 1 adet orta boy breadboard
     
   ### Breadboard Şeması
+  ![alt text](https://raw.githubusercontent.com/muhep06/pcop/master/pcop-turkish_bb.png)
