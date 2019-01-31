@@ -11,6 +11,9 @@ NodeMCU ile uzaktan bilgisayarınızı açın, kapatın veya yeniden başlatın.
     * 1 adet BC559 PNP Transistör
     * 1 adet 2N3904 NPN Transistör
     * 1 adet orta boy breadboard
+
+  ### Firmware (Yazılım) Yüklenmesi
+    * [ESP Flash Download Tool](https://www.espressif.com/en/support/download/other-tools) Yazılımı İndirin
     
   ### Breadboard Şeması
-  ![alt text](https://raw.githubusercontent.com/muhep06/pcop/master/pcop-turkish_bb.png)
+  ![pCOp Şeması](https://raw.githubusercontent.com/muhep06/pcop/master/pcop-turkish_bb.png)
