@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+firmware/0x00300000.bin
