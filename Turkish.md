@@ -13,8 +13,13 @@ NodeMCU ile uzaktan bilgisayarınızı açın, kapatın veya yeniden başlatın.
     * 1 adet orta boy breadboard
 
   ### Firmware (Yazılım) Yüklenmesi
-  - [ESP Flash Download Tool](https://www.espressif.com/en/support/download/other-tools) Yazılımı İndirin
-  - [Firmware(Yazılım)](https://github.com/muhep06/pcop/tree/master/firmware) Dosyalarını İndirin
+  - [ESP Flash Download Tool](https://www.espressif.com/en/support/download/other-tools) Yazılımı İndirin.
+  - [Firmware(Yazılım)](https://github.com/muhep06/pcop/tree/master/firmware) Dosyalarını İndirin.
+  - ESP Flash Download Tool yazılımını çalıştırın.
+  - ESP8266 DownloadTool seçeniğini seçiniz.
+  ![pCOp Şeması](https://raw.githubusercontent.com/muhep06/pcop/master/images/adim1.png)
+  - İndirdiğiniz firmware(yazılım) dosyalarını aşağıdaki resimde olduğu gibi ESP Flash Download Tool yazılımı üzerinde seçiniz.
+  ![pCOp Şeması](https://raw.githubusercontent.com/muhep06/pcop/master/images/adim2.png)
   
   ### Breadboard Şeması
-  ![pCOp Şeması](https://raw.githubusercontent.com/muhep06/pcop/master/pcop-turkish_bb.png)
+  ![pCOp Şeması](https://raw.githubusercontent.com/muhep06/pcop/master/images/pcop-turkish_bb.png)
