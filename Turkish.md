@@ -13,7 +13,7 @@ NodeMCU ile uzaktan bilgisayarınızı açın, kapatın veya yeniden başlatın.
     * 1 adet orta boy breadboard
 
   ### Firmware (Yazılım) Yüklenmesi
-    * [ESP Flash Download Tool](https://www.espressif.com/en/support/download/other-tools) Yazılımı İndirin
+    - [ESP Flash Download Tool](https://www.espressif.com/en/support/download/other-tools) Yazılımı İndirin
     
   ### Breadboard Şeması
   ![pCOp Şeması](https://raw.githubusercontent.com/muhep06/pcop/master/pcop-turkish_bb.png)
