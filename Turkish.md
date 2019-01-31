@@ -17,7 +17,7 @@ NodeMCU ile uzaktan bilgisayarınızı açın, kapatın veya yeniden başlatın.
   - [Firmware(Yazılım)](https://github.com/muhep06/pcop/tree/master/firmware) Dosyalarını İndirin.
   - ESP Flash Download Tool yazılımını çalıştırın.
   - ESP8266 DownloadTool seçeneğini seçiniz.
-  
+
   ![pCOp Şeması](https://raw.githubusercontent.com/muhep06/pcop/master/images/adim1.PNG)
 
   - İndirdiğiniz firmware(yazılım) dosyalarını aşağıdaki resimde olduğu gibi ESP Flash Download Tool yazılımı üzerinde seçiniz.
@@ -27,7 +27,7 @@ NodeMCU ile uzaktan bilgisayarınızı açın, kapatın veya yeniden başlatın.
   ### Gerekli Bilgiler
   - Yazılım yüklemesi bittikten sonra pCOp yazılımının varsayılan kullanıcı adı admin, varsayılan şifresi adminadmin şeklindedir. pCOp cihazınıza sabit IP vermediyseniz cihazın IP adresine Serial Monitor kullanarak ulaşabilirsiniz. Varsayılan port 8083'tür.
 
-  - Modem üzerinden, NodeMCU karınızın MAC Adresine göre sabit IP atayabilirsiniz. Böylece cihazınızın IP adresi değişmez ve her zaman atadığınız sabit IP üzerinden cihazınıza ulaşabilirsiniz.
+  - Modem üzerinden, NodeMCU kartınızın MAC Adresine göre sabit IP atayabilirsiniz. Böylece cihazınızın IP adresi değişmez ve her zaman atadığınız sabit IP üzerinden cihazınıza ulaşabilirsiniz.
   
   - İlk kurulum sonrası 45 saniye bekleyiniz. Cihaz kurtarma moduna girecektir.(Eğer cihaz açıldıktan sonra 45 saniye içinde WiFi bağlantısı gerçekleştiremez ise) 45 saniye sonra RECOVERY_MODE adında bir WiFi ağı oluşacaktır. Bu WiFi ağına bağlanarak (http://192.168.4.1:8083/) adresinde gidiniz ve bağlanmak istediğiniz WiFi bilgilerini giriniz. Kurtarma modunda WiFi bilgilerini ayarlamak için 60 saniyeniz var. Cihaz kurtarma modunda 60 saniyede bir yeniden başlatılır. WiFi bilgileriniz doğruysa cihaz WiFi ağına bağlanacaktır. 45 saniye içinde cihaz girdiğiniz bilgilerle WiFi ağına bağlanamaz ise cihaz tekrar kurtarma moduna girecektir.
 
