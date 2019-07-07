@@ -16,7 +16,7 @@ Turn on, turn off, or restart your computer remotely with NodeMCU. NodeMCU ile u
 | Feature/Özellik | Status/Durum |
 |--|--|
 | Static IP | Ready/Hazır |
-| Statşc DNS | Ready/Hazır |
+| Static DNS | Ready/Hazır |
 | Clock/Saat | Ready/Hazır |
 | Changing Timezone/Saat Dilimini Değiştirme | Ready/Hazır |
 | Scheduled transactions/Zamanlanmış İşlemler | In progress.../Üzerinde Çalışılıyor... |
